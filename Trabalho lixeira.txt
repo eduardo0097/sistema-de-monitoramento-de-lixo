@@ -1,3 +1,6 @@
+// Sistema de monitoramento de lixo:IoT com ESP8266
+// Autores: Emanuel Tiago, Eduardo Nunes e Douglas Rosas
+
 #include <PubSubClient.h> //Biblioteca para utilizanção do MQTT
 #include <ESP8266WiFi.h> //Biblioteca do ESP8266 wifi
 #include <Ultrasonic.h>//Biblioteca do sensor ultrasonico
